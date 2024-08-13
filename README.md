@@ -32,12 +32,8 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=victorlim4/pick-a-code" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
